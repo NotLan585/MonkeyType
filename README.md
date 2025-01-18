@@ -11,7 +11,7 @@ ___  ___            _            _____                  _    __________  ___  __
 
 MonkeyType WPM Tester 🚀
 
-![](Typer-ezgif.com-video-to-gif-converter.mov)
+![](typergif.gif)
 
 This project automates typing on MonkeyType using Playwright and measures your Words Per Minute (WPM).
 
