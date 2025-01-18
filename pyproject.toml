@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "monkey-type"
+version = "1.0.0"
+description = "Lets go fast"
+authors = ["Ian Allheim <ian.allheim@gmail.com>"]
+
+[tool.pytest.ini_options]
+log_cli = true
+log_cli_level = "INFO"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pytest-playwright = "^0.3.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
